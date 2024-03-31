@@ -1,2 +1,2 @@
 # BcaProject
-<p>thanks for visiting to my git account</p>
+<p>thanks for visiting </p>
